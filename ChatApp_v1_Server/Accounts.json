@@ -1,0 +1,19 @@
+{
+  "accounts": [
+    {
+      "username": "serdarsoylemez",
+      "name": "Serdar Söylemez",
+      "password": "123456"
+    },
+    {
+      "username": "kemaloguzhan",
+      "name": "Kemal Oguzhan Yeyit",
+      "password": "123456"
+    },
+    {
+      "username": "harundursun",
+      "name": "Harun Dursun",
+      "password": "123456"
+    }
+  ]
+}
